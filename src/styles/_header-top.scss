@@ -144,7 +144,7 @@
       right: -30px;
       transform: translate(0, -100%);
       opacity: 0;
-      transition: 0.3s;
+      transition: 0.4s;
 
       .navbar__list {
         flex-direction: column;
@@ -217,7 +217,7 @@
     .input--switch:checked + .header__navbar {
       transform: translate(0%, 0%);
       opacity: 1;
-      transition: 0.3s;
+      transition: 0.4s;
     }
   }
 }
