@@ -1,0 +1,14 @@
+$bg-color: #ffec7a;
+$text-color: #4f4f4f;
+$bebas-font: bebas, sans-serif;
+$text-dark: #333;
+$color-light: #f8f8f8;
+$small-screen: 999px;
+$tablet-screen: 768px;
+$phone-screen: 480px;
+
+@mixin positioning {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
